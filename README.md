@@ -12,6 +12,7 @@ ZK Payroll Contracts enable companies to process payroll on-chain while keeping 
 - **Proof-Based Payments** — Verify payments without exposing values
 - **Batch Payroll** — Process multiple employees in single transaction
 - **Compliance Ready** — Selective disclosure for audits via view keys
+- **Error Case Reference** — Contract failure causes and client recovery guidance in [`docs/errors.md`](docs/errors.md)
 - **On-Chain Verification** — Groth16 proof verification on Soroban
 
 ## Architecture
